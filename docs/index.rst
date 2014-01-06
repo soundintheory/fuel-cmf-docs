@@ -3,13 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Fuel CMF Docs's documentation!
-=========================================
+Intro to Fuel CMF Docs's documentation! Woo!
+============================================
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
+   
+   pages/Introduction
+   pages/test
 
 
 
